@@ -1,3 +1,6 @@
 # BC_harjoitus
 BuilderComin harkkarepo
-muokkaus!!!
+
+##Arin muokkaukset
+
+Ari on kloonannut ja muokannut repoa
