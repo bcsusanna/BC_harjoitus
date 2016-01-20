@@ -1,4 +1,8 @@
 testi
+<<<<<<< HEAD
 Lisätty
 Lisäänpä oman tekstin tähän
 täh?
+=======
+rivi2
+>>>>>>> cd09bad8adcc07b6a7249a1fc711a2ba7af8612a
